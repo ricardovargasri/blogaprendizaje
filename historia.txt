@@ -1,6 +1,6 @@
-hola a todos, yo soy ricardo vargas
+hola a todos, yo soy ricardo vargas el teniente
 
-soy padre de la niña maria de los angeles
+soy padre de la niña maria de los angeles hija del teniente
 
 me interesa mucho la ciencia de datos
 
@@ -13,3 +13,5 @@ por ahora la estrategia es esperar con paciencia y seguir gestionando
 pero si el lunes me llegan a decir que si brinco de alegria
 
 todo sera una novedad, pase lo que pase
+
+de momento seguire pensando en mi historia de vida
